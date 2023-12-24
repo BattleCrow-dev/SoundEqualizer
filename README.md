@@ -18,4 +18,7 @@
 - Загрузка своего трека с устройства
 
 ### Скриншоты версии
-!["Стартовое состояние"]("Скрины версии 0.1/В работе.png")
+![В работе](https://github.com/BattleCrow-dev/SoundEqualizer/assets/93342228/a84da8e1-5548-4d75-bfc8-0fe446c46af4)
+![Загруженный трек](https://github.com/BattleCrow-dev/SoundEqualizer/assets/93342228/5648345c-4025-45fe-8fc8-44e0d7acfe75)
+![Загрузка трека](https://github.com/BattleCrow-dev/SoundEqualizer/assets/93342228/aa5f9a37-8156-48d7-91eb-05b6754d2fe2)
+![При входе](https://github.com/BattleCrow-dev/SoundEqualizer/assets/93342228/ba135cca-424b-4cea-b498-f899abc20e0c)
